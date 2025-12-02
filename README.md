@@ -8,5 +8,5 @@ Juan Carlos Garrote
 
 
 
-Cambio en local
+Cambio en remoto
 
